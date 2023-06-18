@@ -10,6 +10,9 @@ resource "aws_instance" "example" {
 
     # the public SSH key
     key_name = aws_key_pair.mykeypair.key_name
+
+    # set userdata
+    user_data = data.cloudinit_config.cloudinit-example.rendered
 }
 
 output "public_ip_address" {
@@ -33,4 +36,3 @@ resource "aws_volume_attachment" "ebs-volume-1-attachment" {
   # stop_instance_before_detaching = true: This flag indicates that the EC2 instance should be stopped before detaching the EBS volume. When set to true, Terraform will stop the instance, detach the volume, and then start the instance again.
   stop_instance_before_detaching = true
 }
-
