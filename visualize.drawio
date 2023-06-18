@@ -445,7 +445,7 @@
         </mxGraphModel>
     </diagram>
     <diagram id="Byn_RhmGZRuO6Q0Jo8lp" name="demo-13">
-        <mxGraphModel dx="1509" dy="1767" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="2359" dy="1799" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -476,8 +476,8 @@
                 <mxCell id="UDO7AepPQW-VykkiwuNd-12" value="Attach 2 user vào group user" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
                     <mxGeometry x="1050" y="350" width="180" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="UDO7AepPQW-VykkiwuNd-13" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-                    <mxGeometry x="155" y="-55" width="50" height="30" as="geometry"/>
+                <mxCell id="UDO7AepPQW-VykkiwuNd-13" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;+ Demo này tạo 2 user&lt;br&gt;+ Kế đến add 2 user đó vào chung 1&amp;nbsp; group users&lt;br&gt;+ Cuối cùng là attach policy cho group đó&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="-65" y="-85" width="490" height="90" as="geometry"/>
                 </mxCell>
             </root>
         </mxGraphModel>
